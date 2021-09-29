@@ -20,7 +20,7 @@ I'm Gemechis, an aspiring Software Engineering student who is driven to build op
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/gemechis-elias/gemechis-elias/master/code.gif?raw=true" width="400" height="250" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/gemechis-elias/gemechis-elias/master/code.gif" width="400" height="250" />
   
 - 💼 Any freelance work? do reach, [email](mailto:gemeelijah@gmail.com) :)
 
