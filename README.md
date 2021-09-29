@@ -1,4 +1,4 @@
-### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Gemechis!
+### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/gemechis_">
   <img align="left" alt="Gemechis Elias | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -11,6 +11,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gemechis-elias.gemechis-elias)
 
 <br />
+__Software Engineer__
+ <br /> [ Tech Enthaustic Fulstack Software Developer| UI/UX | Android App | Flutter | Student AASTU ]
+
+---
 
 I'm Gemechis, an aspiring Software Engineering student who is driven to build optimized models that solve real-world problems. I will constantly share my codes and projects on this Github. Always motivated to learn new sets of skills.
 
