@@ -14,7 +14,6 @@
 
 I'm Gemechis, an aspiring Software Engineering student who is driven to build optimized models that solve real-world problems. I will constantly share my codes and projects on this Github. Always motivated to learn new sets of skills.
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=gemechis-elias&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -36,7 +35,7 @@ I'm Gemechis, an aspiring Software Engineering student who is driven to build op
 
 📈 My github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gemechis-elias&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
