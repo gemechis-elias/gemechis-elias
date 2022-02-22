@@ -10,8 +10,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gemechis-elias.gemechis-elias)
 <br />
 
-### Hello World!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br /> I'am Gemechis Elias. Second-year Software Engineering student, future Software Engineer Tech Enthaustic Fulstack Software Developer| UI/UX | Android App | Flutter | Student AASTU 
-<br />
+### Hello World!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br /> I'am Gemechis Elias. Second-year Software Engineering student, future Software Engineer<br /> Tech Enthaustic Fulstack Software Developer| UI/UX | Android App | Flutter | Student AASTU 
+
 
 ---
 <br />
