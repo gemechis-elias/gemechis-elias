@@ -15,7 +15,7 @@
 ### Tech Enthaustic Fulstack Software Developer| UI/UX | Android App | Flutter | Student AASTU 
 
 ---
-
+<br />
 I'm Gemechis, an aspiring Software Engineering student who is driven to build optimized models that solve real-world problems. I will constantly share my codes and projects on this Github. Always motivated to learn new sets of skills.
 
 
