@@ -11,7 +11,7 @@
 
 <br />
 
-### Hello World!👋 <br /> I'am Gemechis Elias. Second-year Software Engineering student, future Software Engineer<br /> Tech Enthaustic | UI/UX | Android App | Flutter | Student AASTU | 
+### Hello World!👋 <br /> I'am Gemechis Elias, Software Engineering Student. <br /> Tech Enthaustic | Android App | Flutter | Web Technologies | Telegram Bot | 
 
 
 ---
