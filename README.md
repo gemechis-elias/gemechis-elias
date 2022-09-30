@@ -13,13 +13,6 @@
 
 ### Hello World!👋 <br /> I'am Gemechis Elias, Software Engineering Student. <br /> Tech Enthaustic | Android App | Flutter | Web Technologies | Telegram Bot | 
 
-
----
-<br />
-
-
-
-<br />
 <br />
 
 ---
