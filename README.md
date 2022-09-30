@@ -9,7 +9,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gemechis-elias.gemechis-elias)
 
-<br />
 
 ### Hello World!👋 <br /> I'am Gemechis Elias, Software Engineering Student. at AASTU '2025 🎓<br /> Freelencer | Web and Mobile App Developer
 
