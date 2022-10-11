@@ -5,12 +5,14 @@
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Gemchis Elias LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<a href="https://t.me.com/official_gemechis/">
+  <img align="left" alt="Gemchis Elias Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gemechis-elias.gemechis-elias)
 
 
-### Hello World!👋 <br /> I'am Gemechis Elias, Software Engineering Student. at AASTU '2025 🎓<br /> Freelencer | Web and Mobile App Developer
+### Hello World!👋 <br /> I'am Gemechis Elias, Software Engineering Student at <a href="http://www.aastu.edu.et/">AASTU</a> '2025 🎓<br /> Freelencer | Web and Mobile App Developer
 
 <br />
 
