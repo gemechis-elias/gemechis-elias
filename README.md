@@ -3,10 +3,10 @@
   <img align="left" alt="Gemechis Elias | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Gemchis Elias LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+  <img align="left" alt="Gemchis Elias LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/lnkedin.svg" />
 </a>
 <a href="https://t.me.com/official_gemechis/">
-  <img align="left" alt="Gemchis Elias Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram.svg" />
+  <img align="left" alt="Gemchis Elias Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gemechis-elias.gemechis-elias)
