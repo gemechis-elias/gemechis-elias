@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gemechis-elias.gemechis-elias)
 
 
-### Hello World!👋 <br /> I'am <a href="https://gemechis-elias.web.app"Gemechis Elias</a>, Software Engineering Student at <a href="http://www.aastu.edu.et/">AASTU</a> '2025 🎓<br /> Freelencer | Web and Mobile App Developer
+### Hello World!👋 <br /> I'am <a href="https://gemechis-elias.web.app">Gemechis Elias</a>, Software Engineering Student at <a href="http://www.aastu.edu.et/">AASTU</a> '2025 🎓<br /> Freelencer | Web and Mobile App Developer
 
 <br />
 
