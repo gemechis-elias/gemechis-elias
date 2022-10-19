@@ -18,8 +18,8 @@
 <li><a href="https://play.google.com/store/apps/details?id=com.gemechiselias.aastu">AASTU Students App</a> - Social media application for android devices. The
 application allows students to connect, chat, create, and share
 stories with their friends.</li>
-  <li><a href="https://t.me/horantr_bot">Horan Translator - Free and easy to use Ethiopian Languages translator developed
-and designed in the form of web app and telegram bot.</a> </li>
+  <li><a href="https://t.me/horantr_bot">Horan Translator</a> - Free and easy to use Ethiopian Languages translator developed
+and designed in the form of web app and telegram bot. </li>
 </ul>
 
 <br />
