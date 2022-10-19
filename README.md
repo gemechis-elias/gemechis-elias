@@ -15,10 +15,10 @@
 ### Hello World!👋 <br /> I'am <a href="https://gemechis-elias.web.app">Gemechis Elias</a>, Software Engineering Student at <a href="http://www.aastu.edu.et/">AASTU</a> '2025 🎓<br /> Freelencer | Web and Mobile App Developer<br>
 <p>Projects </p>
 <ul>
-<li><a href="https://play.google.com/store/apps/details?id=com.gemechiselias.aastu">AASTU Students App</a> - Social media application for android devices. The
+<li><a href="https://play.google.com/store/apps/details?id=com.gemechiselias.aastu"><strong>AASTU Students App</strong></a> - Social media application for android devices. The
 application allows students to connect, chat, create, and share
 stories with their friends.</li>
-  <li><a href="https://t.me/horantr_bot">Horan Translator</a> - Free and easy to use Ethiopian Languages translator developed
+  <li><a href="https://t.me/horantr_bot"><strong>Horan Translator</strong></a> - Free and easy to use Ethiopian Languages translator developed
 and designed in the form of web app and telegram bot. </li>
 </ul>
 
