@@ -13,10 +13,10 @@
 
 
 ### Hello World!👋 <br /> I'am <a href="https://gemechis-elias.web.app">Gemechis Elias</a>, Software Engineering Student at <a href="http://www.aastu.edu.et/">AASTU</a> '2025 🎓<br /> Freelencer | Web and Mobile App Developer<br>
-<p>Achivements </p><br>
+<p>Projects </p>
 <ul>
-<li>AASTU Students Apps </li>
-<li>Horan Translator </li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gemechiselias.aastu">AASTU Students App</a> -  </li>
+  <li><a href="https://t.me/horantr_bot">Horan Translator</a> </li>
 </ul>
 
 <br />
