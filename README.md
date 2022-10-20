@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gemechis-elias.gemechis-elias)
 
 
-### Hello World!👋 <br /> I'am <a href="https://gemechis-elias.web.app">Gemechis Elias</a>, Software Engineering Student at <a href="http://www.aastu.edu.et/">AASTU</a> '2025 🎓<br /> Freelencer | Web and Mobile App Developer<br>
+### Hello World!👋 <br /> I'm <a href="https://gemechis-elias.web.app">Gemechis Elias</a>, Software Engineering Student at <a href="http://www.aastu.edu.et/">AASTU</a> '2025 🎓<br /> Freelencer | Web and Mobile App Developer<br>
 <p>Projects </p>
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.gemechiselias.aastu"><strong>AASTU STUDENT APP</strong></a> - Social media application for android devices. The
@@ -27,7 +27,7 @@ and designed in the form of web app and telegram bot. </li>
 ---
 
 
-📈 My github stats
+📈 My github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gemechis-elias&show_icons=true&theme=gotham" alt="gemechis-elias" />
 
