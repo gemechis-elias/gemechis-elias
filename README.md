@@ -12,14 +12,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gemechis-elias.gemechis-elias)
 
 
-### Hello World!👋 <br /> I'm <a href="https://gemechis-elias.web.app">Gemechis Elias</a>, Software Engineering Student at <a href="http://www.aastu.edu.et/">AASTU</a> '2025 🎓<br /> Freelencer | Web and Mobile App Developer<br>
+### Hello World!👋 <br /> I'm <a href="https://gemechis-elias.web.app">Gemechis Elias</a>, Software Engineering Student at <a href="http://www.aastu.edu.et/">AASTU</a> '2025 🎓<br /> Always eager to learn new sets of skills and I love working with others.<br>
 <p>Projects </p>
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.gemechiselias.aastu"><strong>AASTU STUDENT APP</strong></a> - Social media application for android devices. The
 application allows students to connect, chat, create, and share
 stories with their friends.</li>
-  <li><a href="https://horansoftware.com/translator"><strong>HORAN TRANSLATOR</strong></a> - Free and easy to use Ethiopian Languages translator developed
-and designed in the form of web app and telegram bot. </li>
+  <li><a href="https://t.me/horantr_bot"><strong>HORAN TRANSLATOR</strong></a> - Free and easy to use Ethiopian Languages translator that helps you to translate at real-time while chatting on telegram</li>
 </ul>
 
 <br />
