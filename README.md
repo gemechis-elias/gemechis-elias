@@ -1,35 +1,21 @@
+# Hello World! 👋
 
-<a href="https://twitter.com/gemechis_">
-  <img align="left" alt="Gemechis Elias | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gemechis-elias">
-  <img align="left" alt="Gemchis Elias LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://t.me.com/realgemechis/">
-  <img align="left" alt="Gemchis Elias Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
-</a>
+I'm [Gemechis Elias](https://gemechis-elias.web.app), a Software Engineering Student at [AASTU](http://www.aastu.edu.et/).
 
-![](https://visitor-badge.glitch.me/badge?page_id=gemechis-elias.gemechis-elias)
+## Connect with me
 
-
-## Hello World!👋 <br /> I'm <a href="https://gemechis-elias.web.app">Gemechis Elias</a>, Software Engineering Student at <a href="http://www.aastu.edu.et/">AASTU</a><br />
-<p>Projects </p>
-<ul>
-<li><a href="https://play.google.com/store/apps/dev?id=9107956347554126513"><strong>AASTU STUDENT APP</strong></a> - Social media application for android devices. The
-application allows students to connect, chat, create, and share
-stories with their friends.</li>
-  <li><a href="https://t.me/horantr_bot"><strong>HORAN TRANSLATOR</strong></a> - Free and easy-to-use Ethiopian Languages translator that helps you to translate in real-time while chatting on telegram</li>
-</ul>
+[<img align="left" alt="Gemechis Elias | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/gemechis_)
+[<img align="left" alt="Gemechis Elias LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/gemechis-elias)
+[<img align="left" alt="Gemchis Elias Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/realgemechis/)
 
 <br />
+<br />
 
----
+## Projects
 
+- [AASTU STUDENT APP](https://play.google.com/store/apps/dev?id=9107956347554126513): Social media application for Android devices. The application allows students to connect, chat, create, and share stories with their friends.
 
-📈 My GitHub Stats
+- [HORAN TRANSLATOR](https://t.me/horantr_bot): Free and easy-to-use Ethiopian Languages translator that helps you translate in real-time while chatting on Telegram.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gemechis-elias&show_icons=true&theme=gotham" alt="gemechis-elias" />
-
-
-
-
+<br />
+<br />
