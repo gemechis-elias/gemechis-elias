@@ -2,7 +2,7 @@
 
 I'm [Gemechis Elias](https://gemechis-elias.web.app), a Software Engineering Student at [AASTU](http://www.aastu.edu.et/).
 
-## Projects
+## Published Projects
 
 - [AASTU STUDENT APP](https://play.google.com/store/apps/dev?id=9107956347554126513): Social media application for Android devices. The application allows students to connect, chat, create, and share stories with their friends.
 
