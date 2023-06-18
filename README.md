@@ -2,13 +2,6 @@
 
 I'm [Gemechis Elias](https://gemechis-elias.web.app), a Software Engineering Student at [AASTU](http://www.aastu.edu.et/).
 
-## Connect with me
-
-[<img align="left" alt="Gemechis Elias | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/gemechis_)
-[<img align="left" alt="Gemechis Elias LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/gemechis-elias)
-[<img align="left" alt="Gemchis Elias Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/realgemechis/)
-
-<br />
 <br />
 
 ## Projects
