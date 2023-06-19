@@ -1,5 +1,3 @@
-# Hello World! 👋
-
 I'm [Gemechis Elias](https://gemechis-elias.web.app), a Software Engineering Student at [AASTU](http://www.aastu.edu.et/).
 
 ## Published Projects
