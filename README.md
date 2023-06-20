@@ -6,7 +6,7 @@
 ![](https://github.com/gemechis-elias/AASTU-Software-Engineering-Resource/network/members)<img src="https://img.shields.io/github/forks/gemechis-elias/gemechis-elias.svg?color=blue&logo=github">
 
 </h3>
-I'm [Gemechis Elias](https://gemechis-elias.web.app), a Software Engineering Student at [AASTU](http://www.aastu.edu.et/).
+I'm <a href="https://gemechis-elias.web.app">Gemechis Elias</a>, a Software Engineering Student at [AASTU](http://www.aastu.edu.et/).
 
 ## Published Projects
 
