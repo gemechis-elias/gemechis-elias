@@ -1,3 +1,11 @@
+<h3 align="center">
+
+![](https://komarev.com/ghpvc/?username=gemechis-elias&style=plastic&color=brightgreen&label=Profile+Views)
+![](https://github.com/gemechis-elias/AASTU-Software-Engineering-Resource/graphs/contributors")<img src="https://img.shields.io/github/contributors/gemechis-elias/AASTU-Software-Engineering-Resource?color=blue">
+![](https://github.com/gemechis-elias)<img src="https://img.shields.io/github/stars/gemechis-elias.svg?color=blue&logo=github"></a>
+![](https://github.com/gemechis-elias/gdsc-main-site/network/members)<img src="https://img.shields.io/github/forks/gemechis-elias/gemechis-elias.svg?color=blue&logo=github">
+
+</h3>
 I'm [Gemechis Elias](https://gemechis-elias.web.app), a Software Engineering Student at [AASTU](http://www.aastu.edu.et/).
 
 ## Published Projects
