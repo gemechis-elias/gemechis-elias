@@ -1,7 +1,7 @@
 <h3 align="left">
 
 ![](https://komarev.com/ghpvc/?username=gemechis-elias&style=plastic&color=brightgreen&label=Profile+Views)
-![](https://github.com/gemechis-elias/gdsc-main-site/graphs/contributors")<img src="https://img.shields.io/github/contributors/gemechis-elias/gdsc-main-site?color=blue">
+![](https://github.com/gemechis-elias/ip-group-project/graphs/contributors")<img src="https://img.shields.io/github/contributors/gemechis-elias/ip-group-project?color=blue">
 ![](https://github.com/gemechis-elias)<img src="https://img.shields.io/github/stars/gemechis-elias.svg?color=blue&logo=github"></a>
 ![](https://github.com/gemechis-elias/AASTU-Software-Engineering-Resource/network/members)<img src="https://img.shields.io/github/forks/gemechis-elias/gemechis-elias.svg?color=blue&logo=github">
 
