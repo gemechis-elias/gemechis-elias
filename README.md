@@ -6,15 +6,28 @@
 
 </h3>
 
+# Hello World! 👋
 
-I'm <a href="https://gemechis-elias.web.app">Gemechis Elias</a>, a Software Engineering Student at [AASTU](http://www.aastu.edu.et/).
+I'm Gemechis Elias, a passionate software engineer from Ethiopia.
 
-## Published Projects
+## About Me
 
-- [AASTU STUDENT APP](https://apkpure.com/aastu-students/com.gemechiselias.aastu): Social media application for Android devices. The application allows students to connect, chat, create, and share stories with their friends.
+🚀 I love diving into the world of mobile technologies, with a focus on Flutter development.
 
-- [HORAN TRANSLATOR](https://t.me/horantr_bot): Free and easy-to-use Ethiopian Languages translator that helps you translate in real-time while chatting on Telegram.
+💻 Currently, I'm working on exciting projects involving Flutter, Telegram bots, and backend development.
 
-- [AASTU ECSF APP](https://apkpure.com/aastu-ecsf/com.aastu.ecsf.aastu_ecsf): Discover a transformative fellowship experience with the AASTU ECSF App. Designed for the Christian Student Fellowship at Addis Ababa Science and Technology University (AASTU).
+🌐 I believe in the power of open source and strive to make contributions that positively impact the community.
 
+## My Tech Stack
 
+🔧 Flutter | Dart | JavaScript | Python | PHP Laravel 
+
+## Get in Touch
+
+📫 Let's connect! Feel free to reach out for collaboration, discussion, or just to say hi.
+
+[![Linkedin Badge](https://img.shields.io/badge/-GemechisElias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gemechis-elias/)](https://www.linkedin.com/in/gemechis-elias/)
+[![GitHub Badge](https://img.shields.io/badge/-GemechisElias-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/gemechis-elias)](https://github.com/gemechis-elias)
+[![Twitter Badge](https://img.shields.io/badge/-GemechisElias-1DA1F2?style=flat-square&logo=x&logoColor=black&link=https://twitter.com/gemechis_)](https://twitter.com/gemechis_)
+
+## Let's Build the Future Together! 🚀
