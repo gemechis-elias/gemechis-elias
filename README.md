@@ -26,8 +26,8 @@ I'm Gemechis Elias, a passionate software engineer from Ethiopia.
 
 📫 Let's connect! Feel free to reach out for collaboration, discussion, or just to say hi.
 
-[![Linkedin Badge](https://img.shields.io/badge/-GemechisElias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gemechis-elias/)](https://www.linkedin.com/in/gemechis-elias/)
-[![GitHub Badge](https://img.shields.io/badge/-gemechis=glias-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/gemechis-elias)](https://github.com/gemechis-elias)
+[![Linkedin Badge](https://img.shields.io/badge/-gemechis-elias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gemechis-elias/)](https://www.linkedin.com/in/gemechis-elias/)
+[![GitHub Badge](https://img.shields.io/badge/-gemechis-elias-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/gemechis-elias)](https://github.com/gemechis-elias)
 [![Twitter Badge](https://img.shields.io/badge/-gemechis_-1DA1F2?style=flat-square&logo=x&logoColor=black&link=https://twitter.com/gemechis_)](https://twitter.com/gemechis_)
 
 ## Let's Build the Future Together! 🚀
