@@ -6,10 +6,6 @@
 
 </h3>
 
-# Hello World! 👋
-
-I'm Gemechis Elias, a passionate software engineer from Ethiopia.
-
 ## About Me
 
 🚀 I love diving into the world of mobile technologies, with a focus on Flutter development.
