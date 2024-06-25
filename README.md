@@ -10,13 +10,11 @@
 
 🚀 I love diving into the world of mobile technologies, with a focus on Flutter development.
 
-💻 Currently, I'm working on exciting projects involving Flutter, Telegram bots, and backend development.
-
 🌐 I believe in the power of open source and strive to make contributions that positively impact the community.
 
 ## My Tech Stack
 
-🔧 Flutter | Dart | JavaScript | Python | PHP Laravel 
+🔧 Flutter | Dart | AWS | JavaScript | Python | PHP Laravel 
 
 ## Get in Touch
 
