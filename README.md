@@ -8,8 +8,8 @@
 
 ## About Me
 
-🚀 I love diving into the world of Mobile technologies, AWS, and Backend development.
+🚀 I love Mobile technologies, doing it since 2019 GC. my goal is to be one of the best Mobile App Engineer in the country :)
 
-🌐 I believe in the power of open source and strive to make contributions that positively impact the community.
+🌐 I believe in the power of open source and strive to make contributions that positively impact the tech community.
 
 ### Let's Build the Future Together! 🚀
